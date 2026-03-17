@@ -1,6 +1,7 @@
-# Oi, sou o Vinicius
+# 🧑‍💻Vinicius Bueno 
 
-## 👨‍💻 Sobre mim
+**`Desenvolvedor Back-End`**
+
 Sou estudante de Sistemas de Informação e desenvolvedor back-end em formação, com foco na construção de APIs e sistemas bem estruturados.
 Tenho estudado principalmente desenvolvimento com C# e ASP.NET, aplicando conceitos de Programação Orientada a Objetos, arquitetura em camadas e boas práticas de desenvolvimento.
 Gosto de aprender construindo projetos práticos, explorando e aprendendo dia após dia.
