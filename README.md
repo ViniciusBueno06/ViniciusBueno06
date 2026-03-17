@@ -26,10 +26,10 @@ Meu objetivo é conquistar uma oportunidade de estágio ou posição júnior ond
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 ## 📫 Contato
-
+</div>
 - 💼 LinkedIn: https://www.linkedin.com/in/ViniciusBueno06
 - 📧 Email: vini.buenog@gmail.com
 
