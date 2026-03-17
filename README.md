@@ -18,11 +18,14 @@ Meu objetivo é conquistar uma oportunidade de estágio ou posição júnior ond
 
 📚 Código, café e vontade de vencer.  
   
-## Tecnologias
-![C#](https://img.shields.io/badge/C%23-purple)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-blue)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
 
+##  Tecnologias
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ViniciusBueno06
