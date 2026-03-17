@@ -36,5 +36,5 @@ Meu objetivo é conquistar uma oportunidade de estágio ou posição júnior ond
 
 #
 
-#### Tenho-vos dito estas coisas, para que em mim tenhais paz. No mundo tereis tribulações; mas tende bom ânimo, eu venci o mundo..  
-#####✝️João 16:33
+ 
+##### ✝️João 16:33
