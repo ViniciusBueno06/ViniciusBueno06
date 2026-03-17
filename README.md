@@ -1,16 +1,16 @@
-# Olá 👋 Eu sou Vinicius
+# Oi, sou o Vinicius
 
-💻 Desenvolvedor Back-End em formação  
-📚 Estudando C#, ASP.NET e APIs REST  
-🚀 Interessado em arquitetura de software e boas práticas  
+💻 Desenvolvedor Back-End em formação.
+📚 Código, café e vontade de vencer.
+🚀 Interessado em arquitetura de software e boas práticas.
 
 ## Tecnologias
 - C#
 - ASP.NET
 - MySQL
+- Java
 - JavaScript
 - Git
 
-## Projetos
-🔹 API de autenticação com JWT  
-🔹 Sistema CRUD com Node.js
+Top tecnologias
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBueno06)
