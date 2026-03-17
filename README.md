@@ -1,8 +1,8 @@
 # Oi, sou o Vinicius
 
-💻 Desenvolvedor Back-End em formação.	
-📚 Código, café e vontade de vencer.	
-🚀 Interessado em arquitetura de software e boas práticas.	
+💻 Desenvolvedor Back-End em formação.  
+📚 Código, café e vontade de vencer.  
+🚀 Interessado em arquitetura de software e boas práticas.  
 
 ## Tecnologias
 ![C#](https://img.shields.io/badge/C%23-purple)
