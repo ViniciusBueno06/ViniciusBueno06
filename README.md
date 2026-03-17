@@ -35,5 +35,5 @@ Meu objetivo é conquistar uma oportunidade de estágio ou posição júnior ond
 - 📧 Email: vini.buenog@gmail.com
 
 
-# Código, café e vontade de vencer.  
+### Código, café e vontade de vencer.  
 ✝️João 16:33
