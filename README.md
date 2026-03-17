@@ -1,9 +1,9 @@
 # 🧑‍💻Vinicius Bueno 
 
-**`Desenvolvedor Back-End em formação`**
+**`Desenvolvedor em formação`**
 
-Sou estudante de Sistemas de Informação e desenvolvedor back-end em formação, com foco na construção de APIs e sistemas bem estruturados.
-Tenho estudado principalmente desenvolvimento com C# e ASP.NET, aplicando conceitos de Programação Orientada a Objetos, arquitetura em camadas e boas práticas de desenvolvimento.
+Sou estudante de Sistemas de Informação com foco em back-end, porém com experiências práticas em desenvolvimento Full Stack.
+Tenho estudado principalmente C#, Java e Node.js, aplicando conceitos de Programação Orientada a Objetos, arquitetura em camadas e boas práticas de desenvolvimento.
 Gosto de aprender construindo projetos práticos, explorando e aprendendo dia após dia.
 Meu objetivo é conquistar uma oportunidade de estágio ou posição júnior onde eu possa evoluir como desenvolvedor e contribuir em projetos reais.
 
