@@ -16,8 +16,6 @@ Meu objetivo é conquistar uma oportunidade de estágio ou posição júnior ond
 - Boas práticas de desenvolvimento
 - SQL e modelagem de banco de dados
 - Git e versionamento de código
-
-📚 Código, café e vontade de vencer.  
   
 
 ##  Tecnologias
@@ -37,3 +35,5 @@ Meu objetivo é conquistar uma oportunidade de estágio ou posição júnior ond
 - 📧 Email: vini.buenog@gmail.com
 
 
+# Código, café e vontade de vencer.  
+✝️João 16:33
